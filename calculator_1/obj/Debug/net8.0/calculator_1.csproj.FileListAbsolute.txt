@@ -1,0 +1,14 @@
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.AssemblyInfoInputs.cache
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.AssemblyInfo.cs
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\bin\Debug\net8.0\calculator_1.exe
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\bin\Debug\net8.0\calculator_1.deps.json
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\bin\Debug\net8.0\calculator_1.runtimeconfig.json
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\bin\Debug\net8.0\calculator_1.dll
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\bin\Debug\net8.0\calculator_1.pdb
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.dll
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\refint\calculator_1.dll
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.pdb
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\calculator_1.genruntimeconfig.cache
+C:\Users\Алексей Новик\source\repos\calculator_1\calculator_1\obj\Debug\net8.0\ref\calculator_1.dll
